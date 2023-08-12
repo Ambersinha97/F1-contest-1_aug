@@ -1,0 +1,29 @@
+* {
+  margin: 20px;
+}
+h1 {
+  font-size: 50px;
+  text-decoration: underline;
+}
+p {
+  font-size: 35px;
+  text-align: justify;
+}
+.top-section {
+  padding: 10px;
+  border: 2px solid black;
+}
+a {
+  color: black;
+}
+span {
+  font-weight: bolder;
+  font-style: italic;
+}
+.beagle-pic {
+  height: 800px;
+  width: 800px;
+}
+.trivia-section {
+  font-size: 35px;
+}
